@@ -1,8 +1,8 @@
-# ["LifeStyleHub" Website using Microsoft Azure Technologies] (https://victorious-smoke-023852300.3.azurestaticapps.net/)
+# ["LifeStyleHub" Website using Microsoft Azure Technologies] (https://_______________________apps.net/)
 
-Project Link : https://victorious-smoke-023852300.3.azurestaticapps.net/
+Project Link : https://___________________apps.net/
 
-Demo Video : https://youtu.be/JgVueXBWHyM
+Demo Video : https://youtu.be/_________apps
 
 _______________________________________________________________________________________________________________________________________________________________________
 
